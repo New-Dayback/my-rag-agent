@@ -1,7 +1,7 @@
 ##我的学习资源(complot##
-Hugging Face Course（实操）：https://huggingface.co/learn
-Hugging Face Transformers 文档：https://huggingface.co/docs/transformers
-LangChain 文档：https://langchain.readthedocs.io/
+1.Hugging Face Course（实操）：https://huggingface.co/learn
+2.Hugging Face Transformers 文档：https://huggingface.co/docs/transformers
+3.LangChain 文档：https://langchain.readthedocs.io/
 LlamaIndex（索引/检索）：https://llamaindex.ai/ 或 https://gpt-index.readthedocs.io/
 SentenceTransformers：https://www.sbert.net/
 FAISS（GitHub）：https://github.com/facebookresearch/faiss
