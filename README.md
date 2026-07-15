@@ -1,4 +1,4 @@
-##我的学习资源(complot##
+##我的学习资源##
 1.Hugging Face Course（实操）：https://huggingface.co/learn
 2.Hugging Face Transformers 文档：https://huggingface.co/docs/transformers
 3.LangChain 文档：https://langchain.readthedocs.io/
